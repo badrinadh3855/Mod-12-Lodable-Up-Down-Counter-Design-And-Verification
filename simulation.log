@@ -1,0 +1,4017 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Dec 12 07:52 2025
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 7
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 7
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 5
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 5
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 3
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 5
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 3
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 8
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 5
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 3
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 8
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 4
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 0
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 2
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 1
+data_in = 8
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 10
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 3
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 0
+data_in = 6
+data_out = x
+reset=1
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 5
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 9
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 1
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 0
+load = 0
+data_in = 11
+data_out = x
+reset=0
+-----------------------------------
+----------randomization completed----------
+no_of_transaction        500
+up_down = 1
+load = 1
+data_in = 7
+data_out = x
+reset=0
+-----------------------------------
+
+Error: uninitialized virtual interface object
+  at time 0 in file mod12counter_tb.sv line 221
+
+#0 in \counter_rd_mon::monitor  at mod12counter_tb.sv:221
+#1 in \counter_rd_mon::start  at mod12counter_tb.sv:232
+#2 in \counter_env::run  at mod12counter_tb.sv:430
+#3 in \test::run  at mod12counter_tb.sv:460
+#4 in top at mod12counter_tb.sv:488
+#5 in top 
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0
+CPU Time:      0.200 seconds;       Data structure size:   0.0Mb
+Fri Dec 12 07:52:37 2025

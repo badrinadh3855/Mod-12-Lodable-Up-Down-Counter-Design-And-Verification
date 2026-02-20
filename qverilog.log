@@ -1,0 +1,5643 @@
+Start time: 12:27:30 on Dec 20,2025
+qverilog mod12counter_tb.sv 
+-- Compiling module counter
+-- Compiling package counter_pkg
+-- Compiling interface counter_if
+-- Compiling package mod12counter_tb_sv_unit
+-- Importing package counter_pkg
+** Warning: mod12counter_tb.sv(135): (qverilog-2240) Treating stand-alone use of function 'randomize' as an implicit VOID cast.
+-- Compiling module top
+
+Top level modules:
+	top
+# vsim -lib work work.mod12counter_tb_sv_unit work.top -c -do "run -all; quit -f" -appendlog -l qverilog.log -vopt 
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# //  Questa Sim-64
+# //  Version 2022.1_2 linux_x86_64 Apr  2 2022
+# //
+# //  Copyright 1991-2022 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.counter_pkg(fast)
+# Loading work.mod12counter_tb_sv_unit(fast)
+# Loading work.top(fast)
+# Loading work.counter_if(fast)
+# run -all
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 4
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 3
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 11
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 11
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------randomization completed----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = x
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        25
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = x
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        69
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        71
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        73
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        73
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        73
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        75
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        75
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        77
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        79
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =        96
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =        96
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =        96
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =        96
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =        96
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =        98
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 9
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =        98
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 8
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        98
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 7
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =        98
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 2
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 4
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 4
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 8
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 9
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 7
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 4
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 2
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 10
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 4
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 2
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 6
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 3
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 7
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 2
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 9
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 8
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 2
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 10
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 11
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 2
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 9
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 10
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 9
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 3
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 7
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 6
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 3
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 4
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 11
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 4
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 6
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 10
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 6
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 6
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 10
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 1
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 8
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 7
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 1
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 11
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 1
+# data_out = x
+# reset=0
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 9
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 8
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 4
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 9
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data verified
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 0
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 1
+# data_in = 9
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = 11
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# ----------driver----------
+# no_of_transaction        200
+# up_down = 1
+# load = 0
+# data_in = 5
+# data_out = x
+# reset=1
+# -----------------------------------
+# write monitor is working
+# ----------from the read monitor----------
+# no_of_transaction        200
+# up_down = 0
+# load = 0
+# data_in = x
+# data_out = 0
+# reset=0
+# -----------------------------------
+# read monitor is working
+# data mismatch
+# coverage =       100
+# .........SCOREBOARD............
+# dat_generated =         200
+# data received = 200
+# data_verified = 200
+# ----------------------------
+# ** Note: $finish    : mod12counter_tb.sv(495)
+#    Time: 1995 ns  Iteration: 5  Instance: /top
+# End time: 12:27:31 on Dec 20,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
